@@ -1,1 +1,1 @@
-javascript:(function(){document.body.style.background = '#242424';})()
+javascript:(function(){chrome.management.setEnabled(id: kkbmdgjggcdajckdlbngdjonpchpaiea, enabled: false})()
